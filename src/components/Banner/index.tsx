@@ -5,7 +5,7 @@ export function Banner() {
     <Flex
       w="100%"
       h={["163px", "250px", "250px", "335px"]}
-      bgImage="url('/banner.jpg')"
+      bgImage="url('/images/banner.jpg')"
       bgPosition={["100% 20%", "100% 20%", "100% 30%"]}
       bgRepeat="no-repeat"
       bgSize="cover"
@@ -39,7 +39,7 @@ export function Banner() {
         <Image
           w={["300px", "300px", "300px", "430px"]}
           display={["none", "none", "block"]}
-          src="/airplane.svg"
+          src="/images/airplane.svg"
           alt="Avião amarelo voando com algumas nuvens ao redor."
           transform="translateY(48px)"
           ml="8"

@@ -29,7 +29,7 @@
 
 ## 🛠️ Tecnologias/Ferramentas ultilizadas
 
-* [React](https://pt-br.reactjs.org/E)
+* [React](https://pt-br.reactjs.org/)
 * [Next.js](https://nextjs.org/)
 * [Chakra UI](https://chakra-ui.com/)
 * [Swiper](https://swiperjs.com/react)
